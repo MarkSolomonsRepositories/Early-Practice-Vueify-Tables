@@ -1,5 +1,5 @@
 # Early-Practice-Vueify-Tables
-Early algorithmic practice building a modifiable Vuetify table using VueJS and Vuetify.  Here's a visual representation of the project:
+Early algorithmic practice building a modifiable Vuetify table using VueJS and Vuetify. <br> Here's a visual representation of the project:
 <img width="960" alt="1" src="https://github.com/Perash14/Early-Practice-Vueify-Tables/assets/62203954/304b0bdc-086e-48ec-938c-68cb84da8fa9">
 <img width="960" alt="2" src="https://github.com/Perash14/Early-Practice-Vueify-Tables/assets/62203954/1d5057b8-bcd8-4b75-a00a-222af6ddd7cb">
 <img width="960" alt="2 5" src="https://github.com/Perash14/Early-Practice-Vueify-Tables/assets/62203954/3a2cdc1e-bf03-4ff3-b8c0-63cbf2a1ffd7">
