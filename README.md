@@ -1,6 +1,5 @@
 # Early-Practice-Vueify-Tables
 Early algorithmic practice building a modifiable Vuetify table using VueJS and Vuetify.
-The folder containing the code is a repository within a repository, viewers will need to clone/fork/download this repository in order to view the code.
 Here's a visual representation of the project:
 <img width="960" alt="1" src="https://github.com/Perash14/Early-Practice-Vueify-Tables/assets/62203954/304b0bdc-086e-48ec-938c-68cb84da8fa9">
 <img width="960" alt="2" src="https://github.com/Perash14/Early-Practice-Vueify-Tables/assets/62203954/1d5057b8-bcd8-4b75-a00a-222af6ddd7cb">
